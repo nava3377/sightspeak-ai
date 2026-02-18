@@ -92,3 +92,10 @@ sightspeak-ai/
 cd backend
 pip install -r requirements.txt
 uvicorn app.main:app --reload
+```
+### 2️⃣ Frontend Setup
+```bash
+cd frontend
+npm install
+npm run dev
+```
